@@ -1,5 +1,5 @@
 # Problem Sets from the EQML2024 ⛰️💻
-This repository contains all the problem sets for the Earthquake Physics and Machine Learning (EQML) course, part of the Bachelor's Degree in [Mathematical Sciences for Artificial Intelligence](https://corsidilaurea.uniroma1.it/it/corso/2023/31778/home) at La Sapienza University of Rome, teached by [Chris Marone](https://www.dst.uniroma1.it/Marone). This course is offered as an elective for third-year students in the first semester.
+This repository contains all the problem sets for the Earthquake Physics and Machine Learning (EQML) course, part of the Bachelor's Degree in [Mathematical Sciences for Artificial Intelligence](https://corsidilaurea.uniroma1.it/it/corso/2023/31778/home) at La Sapienza University of Rome, teached by [Chris Marone](https://corsidilaurea.uniroma1.it/it/users/chrismaroneuniroma1it). This course is offered as an elective for third-year students in the first semester.
 
 The EQML course explores the intersection of earthquake physics and machine learning, focusing on the application of computational and analytical techniques to understand seismic activity and predict earthquake-related phenomena.
 
