@@ -8,9 +8,9 @@ The EQML course explores the intersection of earthquake physics and machine lear
 - [Problem Set 2](https://github.com/mich1803/EQML-ProblemSets/blob/main/ProblemSet2.ipynb): Plate Tectonics and Heat Diffusion in Seismic Contexts.
 - [Problem Set 3](https://github.com/mich1803/EQML-ProblemSets/blob/main/ProblemSet3.ipynb): Field Analysis of Faults and Tectonic Motion Estimation after [Campo Felice](https://github.com/mich1803/EQML-ProblemSets/tree/main/media/CampoFeliceFieldTrip081024) field trip.
 
-## Final Prooject:
+## Final Project:
 Check out my final project with this course clicking on the images down below.
 
-![HEADER IMAGE What is Machine Learning Teaching Us? Ecplainable AI for Seismic Models](https://github.com/FRAMAX444/CNN-explainability-Earthquakes/blob/main/media/BG.png?raw=true)
+<a href="https://github.com/FRAMAX444/CNN-explainability-Earthquakes">![HEADER IMAGE What is Machine Learning Teaching Us? Ecplainable AI for Seismic Models](https://github.com/FRAMAX444/CNN-explainability-Earthquakes/blob/main/media/BG.png?raw=true)</a>
 
 You can also find the report here: [***What is Machine Learning Teaching Us?** Ecplainable AI for Seismic Models*](#) (link to be added)  
