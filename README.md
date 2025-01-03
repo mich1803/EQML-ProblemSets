@@ -13,4 +13,4 @@ Check out my final project with this course clicking on the images down below.
 
 <a href="https://github.com/FRAMAX444/CNN-explainability-Earthquakes">![HEADER IMAGE What is Machine Learning Teaching Us? Ecplainable AI for Seismic Models](https://github.com/FRAMAX444/CNN-explainability-Earthquakes/blob/main/media/BG.png?raw=true)</a>
 
-You can also find the report here: [***What is Machine Learning Teaching Us?** Ecplainable AI for Seismic Models*](#) (link to be added)  
+You can also find the report here: [***What is Machine Learning Teaching Us?** Explainable AI for Seismic Models*](#) (link to be added)  
