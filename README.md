@@ -11,6 +11,6 @@ The EQML course explores the intersection of earthquake physics and machine lear
 ## Final Project:
 Check out my final project with this course clicking on the image down below.
 
-<a href="https://github.com/FRAMAX444/CNN-explainability-Earthquakes">![HEADER IMAGE What is Machine Learning Teaching Us? Ecplainable AI for Seismic Models](https://github.com/mich1803/CNN-Explainability-on-Earthquakes)</a>
+<a href="https://github.com/mich1803/CNN-Explainability-on-Earthquakes">![HEADER IMAGE What is Machine Learning Teaching Us? Ecplainable AI for Seismic Models](https://github.com/mich1803/CNN-Explainability-on-Earthquakes/blob/main/media/header.png?raw=true)</a>
 
 You can also find the report here: [***What is Machine Learning Teaching Us?** Explainable AI for Seismic Models*](https://github.com/FRAMAX444/CNN-explainability-Earthquakes/blob/main/media/MagriniMarroccoExplainableAI.pdf))
